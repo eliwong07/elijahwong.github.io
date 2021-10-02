@@ -1,0 +1,22 @@
+{
+  "name": "ceevee_2_0_0",
+  "version": "1.0.0",
+  "description": "==================================================================================================",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html -d docs",
+    "build": "parcel build index.html -d docs --public-url ."},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliwong07/elijah_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliwong07/elijah_website/issues"
+  },
+  "homepage": "https://github.com/eliwong07/elijah_website#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.9.4"
+  }
+}
